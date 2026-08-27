@@ -12,3 +12,4 @@ C:\Users\costa\Desktop\projeto-c#\MeuProjeto\obj\Debug\net10.0\refint\MeuProjeto
 C:\Users\costa\Desktop\projeto-c#\MeuProjeto\obj\Debug\net10.0\MeuProjeto.pdb
 C:\Users\costa\Desktop\projeto-c#\MeuProjeto\obj\Debug\net10.0\MeuProjeto.genruntimeconfig.cache
 C:\Users\costa\Desktop\projeto-c#\MeuProjeto\obj\Debug\net10.0\ref\MeuProjeto.dll
+C:\Users\costa\Desktop\projeto-c#\MeuProjeto\obj\Debug\net10.0\MeuProjeto.sourcelink.json
